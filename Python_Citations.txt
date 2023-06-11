@@ -1,2 +1,4 @@
 External Sources Used: Stack Overflow and Towards Data Science.com
 
+ChatGPT was used to assist with one Lambda function
+
