@@ -1,4 +1,4 @@
 External Sources Used: Stack Overflow, Big Blue Data Academy notes and Towards Data Science.com
 
-ChatGPT was used to assist with one Lambda function
+
 
