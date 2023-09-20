@@ -1,1 +1,0 @@
-To validate the code replace filepath on 2nd cell to the desired filepath for the assessment CSV file and run. 
